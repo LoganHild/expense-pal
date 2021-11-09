@@ -32,6 +32,8 @@
   To use this application, just enter the total amount you would like to keep track of. Amounts added in the future will be the same process. First click in the input field labeled "Name of Transaction" and enter the name of the transaction. This could be something like "Initial Deposit". Once that is completed, move to the second input field labelede "Transaction amount" and enter the amount to be added. Once that is done just click the "Add Funds" button to add the amount to the total. This will give a starting point for other transactions. This will be the exact same process when adding things like deposits or "Christmas Money" as an example of a fund to be added, and will increase the total. The process is also the same for expenditures, with the only difference being that the user would then click the "Subtract Funds" button to reduce the total by the given amount. A graph will be displayed to show the total changes over time.
   
   ![Screenshot (7)](https://user-images.githubusercontent.com/82903685/140863485-3e29f9ae-603b-4838-a5b9-c450f2e2fc21.png)
+  ![Screenshot (8)](https://user-images.githubusercontent.com/82903685/140864837-57cd742d-d40c-4260-a8d5-48b7153c5cff.png)
+
 
   ## License
  
