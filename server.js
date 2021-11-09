@@ -16,7 +16,6 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-const dbString = 
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://localhost:/budget", 
   {
