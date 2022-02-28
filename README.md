@@ -51,8 +51,8 @@
   ## Questions
   Contact me with any questions!
 
-  [Email](hildebrandtlogan@gmail.com)
+  Email: <hildebrandtlogan@gmail.com>
 
-  [Github](<https://github.com/LoganHild>)
+  Github: <https://github.com/LoganHild>
   
-  [LinkedIn](https://www.linkedin.com/in/loganahildebrandt/)
+  LinkedIn: <https://www.linkedin.com/in/loganahildebrandt/>
